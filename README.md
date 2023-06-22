@@ -1,6 +1,4 @@
-# Getting Started
-
-**IMPORTANT:** Without the AWS backend configured, you will probably see an error like this if you try to run the app as-is: `Module not found: Can't resolve '../src/aws-exports'` Please check out the [full tutorial on freeCodeCamp here](https://www.youtube.com/watch?v=FRmCxj9K7II) or scroll to the below section titled: "Instructions for Building the Project from Scratch" to get started building the project.
+# Getting Started.
 
 First, install the project dependencies from the root of the project:
 ```bash
